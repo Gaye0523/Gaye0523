@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hola, Soy Mayerly Bernal ![](/CoderWoman.jpg)
 
-<!--
-**Gaye0523/Gaye0523** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Estudiante Frontend de laboratoria ![](/laboratoria.jpg)
 
-Here are some ideas to get you started:
+- 🔭 Actualmente estoy creando contenido para mi canal.
+- 🌱 Actualmente estoy aprendiendo como ser una gran frontEnd :ok_woman:
+- 👯 Busco colaborar con otros que tengan mejores conocimientos que los mios.
+- :checkered_flag: Mi gran meta es lograr mejorar mis conicimientos e independecia econimica.
+  
+  ## GitHub stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Gaye0523&show_icons=true&theme=dark)](https://github.com/Gaye0523/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaye0523&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
