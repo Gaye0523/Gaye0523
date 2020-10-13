@@ -1,6 +1,6 @@
 # Hola, Soy Mayerly Bernal ![](/CoderWoman.jpg)
 
-## Estudiante Frontend de laboratoria ![](/laboratoria.jpg)
+## Estudiante Front-end de laboratoria ![](/laboratoria.jpg)
 
 - 🔭 Actualmente estoy creando contenido para mi canal.
 - 🌱 Actualmente estoy aprendiendo como ser una gran frontEnd :ok_woman:
