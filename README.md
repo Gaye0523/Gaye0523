@@ -1,6 +1,6 @@
 # Hola, Soy Mayerly Bernal ![](/CoderWoman.jpg)
 
-## Estudiante Front-end de laboratoria ![](/laboratoria.jpg)
+## Estudiante Front-End de laboratoria ![](/laboratoria.jpg)
 
 - 🔭 Actualmente soy estudiante de la primera generación de Bogotá (Colombia) de Laboratoria.
 - 🌱 Actualmente estoy aprendiendo como ser una gran frontEnd :ok_woman:
