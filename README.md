@@ -2,7 +2,7 @@
 
 ## Estudiante Front-end de laboratoria ![](/laboratoria.jpg)
 
-- 🔭 Actualmente estoy creando contenido para mi canal.
+- 🔭 Actualmente soy estudiante de la primera generación de Bogotá (Colombia) de Laboratoria.
 - 🌱 Actualmente estoy aprendiendo como ser una gran frontEnd :ok_woman:
 - 👯 Busco colaborar con otros que tengan mejores conocimientos que los mios.
 - :checkered_flag: Mi gran meta es lograr mejorar mis conocimientos e independecia econimica.
