@@ -1,14 +1,11 @@
 # Hola, Soy Mayerly Bernal ![](/CoderWoman.jpg)
 
-## Estudiante Front-End de laboratoria ![](/laboratoria.jpg)
+## Estudiante Front-end de laboratoria ![](/laboratoria.jpg)
 
 - 🔭 Actualmente soy estudiante de la primera generación de Bogotá (Colombia) de Laboratoria.
-- 🌱 Actualmente estoy aprendiendo como ser una gran frontEnd :ok_woman:
+- 🌱 Actualmente estoy interiorizando mis conocimientos como Front-end en el bootcamp de Laboratoria. :ok_woman:
 - 👯 Busco colaborar con otros que tengan mejores conocimientos que los mios.
-- :checkered_flag: Mi gran meta es lograr mejorar mis conocimientos e independecia econimica.
-  
-  ## GitHub stats 
-
+- :checkered_flag: Mi gran meta es lograr mejorar mis conocimientos e independecia economica.
  
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Gaye0523&show_icons=true&theme=dark)](https://github.com/Gaye0523/github-readme-stats)
 
