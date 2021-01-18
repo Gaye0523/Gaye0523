@@ -2,7 +2,7 @@
 
 ## Estudiante Front-end de laboratoria ![](/laboratoria.jpg)
 
-- 🔭 Actualmente soy estudiante de la primera generación de Bogotá (Colombia) de Laboratoria.
+- 🔭 Actualmente soy egresada de la primera generación de Bogotá (Colombia) de Laboratoria.
 - 🌱 Actualmente estoy interiorizando mis conocimientos como Front-end en el bootcamp de Laboratoria. :ok_woman:
 - 👯 Busco colaborar con otros que tengan mejores conocimientos que los mios.
 - :checkered_flag: Mi gran meta es lograr mejorar mis conocimientos e independecia economica.
