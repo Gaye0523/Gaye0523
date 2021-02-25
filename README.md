@@ -82,6 +82,6 @@
             flex-direction:row;
             flex-wrap:wrap;
             justify-content:space-around;">
-<a href="https://twitter.com/@myerly" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@myerly" height="40" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/gmbernal23" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/gmbernal23" height="40" width="40" /></a>
+<a href="https://twitter.com/@myerly" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@myerly" height="40" width="40" margin-top="-1%" /></a>
+<a href=https://www.linkedin.com/in/gmbernal23/" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/gmbernal23" height="40" width="40" /></a>
 </div>
