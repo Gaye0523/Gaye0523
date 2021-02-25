@@ -2,6 +2,8 @@
 
 ## Desarrolladora Front-end de laboratoria ![](/laboratoria.jpg)
 
+<p><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/a2ff5bfaf4a7034e45138d534423f26c3bde32af4f579f60cb8a930881d65d0d/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6c696e617572656e6126636f6c6f723d67726179"><img src="https://camo.githubusercontent.com/a2ff5bfaf4a7034e45138d534423f26c3bde32af4f579f60cb8a930881d65d0d/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6c696e617572656e6126636f6c6f723d67726179" alt="" data-canonical-src="https://komarev.com/ghpvc/?username=Gaye0523&amp;color=gray" style="max-width:100%;"></a></p>
+
 - 🔭 Actualmente soy egresada de la primera generación de Bogotá (Colombia) de Laboratoria.
 - 🌱 Actualmente estoy aprendiendo **Redux**. :ok_woman:
 - 💬 Preguntame sobre **Styles**.
